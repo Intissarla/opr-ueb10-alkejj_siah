@@ -5,9 +5,15 @@
  */
 
 #pragma once
-#include "Prueffolge.h"
 #include "Sportler.h"
 #include "Bankdruecken.h"
+#include "EnergieFormatJoule.h"
+#include "Uebung.h"
+#include "EnergieFormatSchokolade.h"
+#include "Prueffolge.h"
+
+
+
 
 class PrueffolgeSport : public Prueffolge
 {

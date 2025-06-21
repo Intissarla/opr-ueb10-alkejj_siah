@@ -4,11 +4,16 @@
  * @author Thomas Mahr
  */
  
+#include <iostream>
+using namespace std;
+
 #include "PrueffolgeSport.h"
 #include "Sportler.h"
 #include "Bankdruecken.h"
 #include "Uebung.h"
 #include "EnergieFormatSchokolade.h"
+
+
 using namespace std;
 
 void prueffolge()
